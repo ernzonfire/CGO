@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Americano",
+    "image": "HAmericano.png",
+    "price": 69.25,
+    "category": "Hot Drinks"
+  },
+  {
+    "id": 2,
+    "name": "Capuccino",
+    "image": "HCapuccino.png",
+    "price": 69.25,
+    "category": "Hot Drinks"
+  },
+  {
+    "id": 3,
+    "name": "Latte Machiatto",
+    "image": "HLatte Macchiato.png",
+    "price": 69.25,
+    "category": "Hot Drinks"
+  },
+  {
+    "id": 4,
+    "name": "Vanilla Latte",
+    "image": "HVanilla Latte.png",
+    "price": 69.25,
+    "category": "Hot Drinks"
+  },
+  {
+    "id": 6,
+    "name": "Iced Caramel Macchiato",
+    "image": "CMacchiato.png",
+    "price": 69.25,
+    "category": "Cold Drinks"
+  },
+  {
+    "id": 5,
+    "name": "Iced Mocha",
+    "image": "CMocha.png",
+    "price": 69.25,
+    "category": "Cold Drinks"
+  },
+  {
+    "id": 7,
+    "name": "Iced Step Brew",
+    "image": "CBrew.png",
+    "price": 69.25,
+    "category": "Cold Drinks"
+  },
+  {
+    "id": 8,
+    "name": "Iced Tawa-tawa",
+    "image": "CTawa.png",
+    "price": 69.25,
+    "category": "Cold Drinks"
+  },
+  {
+    "id": 12,
+    "name": "Blue Cheese Cake",
+    "image": "DBlueCheeseCake.png",
+    "price": 109.25,
+    "category": "Desserts"
+  },
+  {
+    "id": 11,
+    "name": "Cheese Cake",
+    "image": "DCheeseCake.png",
+    "price": 109.25,
+    "category": "Desserts"
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Cake",
+    "image": "DChocoCake.png",
+    "price": 109.25,
+    "category": "Desserts"
+  },
+  {
+    "id": 9,
+    "name": "Pistachio",
+    "image": "DPistachio.png",
+    "price": 109.25,
+    "category": "Desserts"
+  }
+]

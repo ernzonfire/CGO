@@ -41,3 +41,17 @@ Thumbs.db
 /menustyle.css
 /my logo.png
 /reviewprofile1.jpg
+
+# Local server data and browser verification artifacts
+/.playwright-mcp/
+/orders.json
+/*.json.tmp
+
+# Preserved pre-integration files and local shop data
+/.backups/
+/WEBDEV_FINAL PROJECT/connected/data/
+/WEBDEV_FINAL PROJECT/connected/assets/uploads/
+
+# Keep imported source archives local; publish the connected app only.
+/WEBDEV_FINAL PROJECT/*
+!/WEBDEV_FINAL PROJECT/connected/
