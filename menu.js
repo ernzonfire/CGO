@@ -26,14 +26,14 @@ let products = [
         {
             "id": 3,
             "name": "LATTE MACCHIATO",
-            "image":"HLatte Macchiato.png",
+            "image":"HLatte Macchiato1.png",
             "price": 69.25,
             "category": "Hot Drinks"
         },
         {
             "id": 4,
             "name": "VANILLA LATTE",
-            "image":"HVanilla Latte.png",
+            "image":"HVanilla Latte1.png",
             "price": 69.25,
             "category": "Hot Drinks"
         },
