@@ -29,4 +29,4 @@ Runtime data is saved in `WEBDEV_FINAL PROJECT/connected/data`, and uploaded pro
 
 Orders are for pickup and payment at the counter. Payment and delivery logos are visual references; online payment, delivery services, and Google or Facebook sign-in are not connected. Celebrity review cards are labeled demo reviews. Some imagery was reconstructed from the supplied project assets. Image and icon credits are available in the site's footer.
 
-The server listens on localhost. This repository is prepared for a local classroom demo; public deployment needs a separate deployment and security review. Older files at the repository root are retained as historical sources; the connected folder is the application used by `npm start`.
+The server listens on localhost. This repository is prepared for a local classroom demo; public deployment needs a separate deployment and security review. The connected folder is the only maintained frontend. Legacy root pages, scripts, and duplicate images have been removed from the repository; older versions remain available in Git history.

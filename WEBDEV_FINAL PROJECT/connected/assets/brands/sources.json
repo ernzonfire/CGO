@@ -1,72 +1,69 @@
 [
   {
     "name": "facebook-f.svg",
-    "bytes": 502,
-    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/facebook-f.svg"
+    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/facebook-f.svg",
+    "usage": "SVG embedded in app.js and login.html"
   },
   {
     "name": "instagram.svg",
-    "bytes": 1104,
-    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/instagram.svg"
+    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/instagram.svg",
+    "usage": "SVG embedded in app.js"
   },
   {
     "name": "linkedin-in.svg",
-    "bytes": 689,
-    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/linkedin-in.svg"
+    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/linkedin-in.svg",
+    "usage": "SVG embedded in app.js"
   },
   {
     "name": "twitter.svg",
-    "bytes": 874,
-    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/twitter.svg"
+    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/twitter.svg",
+    "usage": "SVG embedded in app.js"
   },
   {
     "name": "youtube.svg",
-    "bytes": 679,
-    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/youtube.svg"
+    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/youtube.svg",
+    "usage": "SVG embedded in app.js"
   },
   {
     "name": "google.svg",
-    "bytes": 571,
-    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/google.svg"
+    "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/brands/google.svg",
+    "usage": "SVG embedded in app.js and login.html"
   },
   {
     "name": "visa.svg",
-    "bytes": 1204,
     "url": "https://raw.githubusercontent.com/aaronfagan/svg-credit-card-payment-icons/main/logo/visa.svg"
   },
   {
     "name": "mastercard.svg",
-    "bytes": 813,
     "url": "https://raw.githubusercontent.com/aaronfagan/svg-credit-card-payment-icons/main/logo/mastercard.svg"
   },
   {
     "name": "paypal.svg",
-    "bytes": 4283,
     "url": "https://raw.githubusercontent.com/aaronfagan/svg-credit-card-payment-icons/main/logo/paypal.svg"
   },
   {
     "name": "alipay.svg",
-    "bytes": 3656,
     "url": "https://raw.githubusercontent.com/aaronfagan/svg-credit-card-payment-icons/main/logo/alipay.svg"
   },
   {
     "name": "maya.svg",
-    "bytes": 4956,
     "url": "https://www.maya.ph/hubfs/Maya/Change%20in%20Management/maya%20consumer%20logo.svg"
   },
   {
     "name": "bpi.svg",
-    "bytes": 5432,
     "url": "https://www.bpi.com.ph/content/dam/bpi/main-navigation/BPI_RT__96x42_header_rev.svg"
   },
   {
-    "name": "grab.svg",
-    "bytes": 2829,
-    "url": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/grab.svg"
+    "name": "foodpanda.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/foodpanda.svg"
   },
   {
-    "name": "foodpanda.svg",
-    "bytes": 1608,
-    "url": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/foodpanda.svg"
+    "name": "gcash.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/GCash_logo.svg"
+  },
+  {
+    "name": "grabfood.png",
+    "url": "https://merchant.grab.com/en-ph/brand-centre/grabfood",
+    "usage": "Green horizontal RGB PNG from the official logo kit"
   }
 ]
