@@ -5,3 +5,39 @@ Thumbs.db
 .env.*
 !.env.example
 *.log
+
+# Local-only portfolio files, old variants, design sources, and unused assets
+/Coffee.png
+/Item.psd
+/Logo.psd
+/MenuK.html
+/Shape.png
+/Shape0.png
+/Shape01.png
+/Shape02.png
+/Shape03.png
+/Shape04.png
+/Shape1.png
+/Shape2.png
+/Shape3.png
+/Shape4.png
+/Shape5.png
+/Shape6.png
+/Shape7.png
+/ernie.html
+/img/BanoffeePie.jpg
+/img/BlueberryLiciousCheesecake.jpg
+/img/ClassicChocolateCake.jpg
+/img/HamandCheeseToastie.jpg
+/img/MeatballPasta.jpg
+/img/NewYorkCheesecake.jpg
+/img/PennePestowithMushroom.jpg
+/img/RoastedHam,Egg,_CheeseonCroissantBun.jpg
+/img/pistachio.jpeg
+/img/qXtNZWfDylqkNjyYxFnO7RtDEEtZXzXUmYJtc2JP - Copy.jpeg
+/img/qXtNZWfDylqkNjyYxFnO7RtDEEtZXzXUmYJtc2JP.jpeg
+/me.jpg
+/me1.jpg.png
+/menustyle.css
+/my logo.png
+/reviewprofile1.jpg
